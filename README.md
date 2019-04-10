@@ -11,7 +11,7 @@ Library Distribution
 1. In your projects, go to Settings > Engine and set the following environment variables:  
 `SPARK_CONFIG=NLTK-demo/spark-defaults.conf` --	(defaults for distribution)  
 `PYSPARK_PYTHON=/anaconda/bin/python2.7` --	(local python)
-2. Open a terminal and run setup.sh  
+2. Open a terminal, cd to NLTK-demo and run setup.sh  
 3. Create a Python Session and run pyspark_nltk.py  
 
 ## Recommended Session Sizes: ## 
